@@ -2,7 +2,7 @@
 
 # O que é o README.md?
 Um **README.md* é um arquivo de texto (no formato Markdown, por isso a extensão .md) que serve como uma espécie de manual ou guia introdutório de um projeto.Ele geralmente é o primeiro contato que alguém terá ao acessar o repositório do projeto , funcionando como uma documentação inicial.
-
+ 
 
 # Para que ele serve?
 Ele existe para explicar e documentar o que o projeto é, como funciona e como usá-lo, sem a pessoa precisar abrir o código logo de cara. Algumas de suas funções são:
